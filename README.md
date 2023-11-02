@@ -1,5 +1,5 @@
 # CNN_PoF
-Code and data from paper in Physics of Fluids: "Convolutional neural networks for compressible turbulent flow reconstruction"
+Code and data from paper in Physics of Fluids: "Convolutional neural networks for compressible turbulent flow reconstruction".
 This paper investigates deep learning methods in the framework of convolutional neural networks for reconstructing
 compressible turbulent flow fields. The aim is to develop methods capable of up-scaling coarse turbulent data into fine-
 resolution images. The method is based on a parallel computational framework that accepts five image sets of various
